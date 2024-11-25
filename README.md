@@ -99,7 +99,8 @@ or
 
 	Click the cds.lib file and save the file by clicking on Save option 
 
-![WhatsApp Image 2024-11-24 at 10 49 39_0ffbc3ab](https://github.com/user-attachments/assets/f7b90c5b-279a-472f-b6de-e900b047426a)
+![WhatsApp Image 2024-11-23 at 10 45 35_03c1c0e7](https://github.com/user-attachments/assets/e0956e8b-d02d-4f29-90b8-91733a05e2fc)
+
 
 
 
@@ -128,7 +129,8 @@ or
 
 
 ### Fig 7: Nclaunch Window
-![WhatsApp Image 2024-11-24 at 10 49 39_0ffbc3ab](https://github.com/user-attachments/assets/8abc7daf-2afa-4ac6-9275-50181e0c48d1)
+![WhatsApp Image 2024-11-23 at 10 44 20_9a5c6fb8](https://github.com/user-attachments/assets/327a37a8-d218-4a8d-bfa2-896010ecb155)
+
 
 
 
@@ -156,7 +158,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 	Select the test bench and compile it. It will come under worklib. Under Worklib you can see the module and test-bench. 
 
 	The cds.lib file is an ASCII text file. It defines which libraries are accessible and where they are located. It contains statements that map logical library names to their physical directory paths. For this Design, you will define a library called “worklib”
-![WhatsApp Image 2024-11-24 at 10 49 39_0ffbc3ab](https://github.com/user-attachments/assets/676488f6-1751-4085-b6df-a4a049164b0a)
+![WhatsApp Image 2024-11-23 at 10 44 20_9a5c6fb8](https://github.com/user-attachments/assets/d5f7a879-13e6-460f-980e-bf8e87f1975e)
 
 
 
@@ -176,7 +178,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 	After elaboration the file will come under snapshot. Select the test bench and elaborate it.
 
 ### Fig 9: Elaboration Launch Option
-![WhatsApp Image 2024-11-24 at 10 49 39_b10c97a0](https://github.com/user-attachments/assets/7f78b34d-1db3-431a-93d1-d53d3b202583)
+![WhatsApp Image 2024-11-23 at 10 44 20_9a5c6fb8](https://github.com/user-attachments/assets/6b83df8e-4c47-4e9d-b417-d9eaf861f99e)
 
 
 
